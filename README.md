@@ -14,7 +14,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 The Topology: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Network_Topology.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <!--
