@@ -71,12 +71,6 @@ All services were validated to ensure proper communication between branches and 
 This project demonstrates the practical implementation of enterprise networking concepts, including routing, addressing, and service deployment. It highlights the importance of planning, scalability, and security in modern network design. 
 
 
-<h2>Topology walk-through:</h2>
-<p align="center">
-  <a href="Topology_image/Network_Topology.png" target="_blank">
-    <img src="Topology_image/Network_Topology.png" alt="Multi-Site Enterprise Network Topology" width="100%" />
-  </a>
-</p>
 <!--
  ```diff
 - text in red
