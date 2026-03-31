@@ -11,11 +11,11 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 
 <h2>Program walk-through:</h2>
-
 <p align="center">
-The Topology: <br/>
-<img src="Network_Topology.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+  <a href="Network_Topology.png" target="_blank">
+    <img src="Network_Topology.png" alt="Multi-Site Enterprise Network Topology" width="100%" />
+  </a>
+</p>
 
 <!--
  ```diff
